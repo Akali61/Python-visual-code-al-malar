@@ -1,0 +1,11 @@
+***3.Hafta***
+1) mathods.py => metotlara bakıldı (center,upper,append)
+2) functions.py => Temelden fonksiyonlar
+3) arguments.py => args, kwargs, fonksiyonu return etme
+4) function-demo.py => Fonksiyon alıştırmaları
+5) lambda.py => map, lambda ile fonksiyon yazımı
+6) scope.py => local scope ve global scope olarak fonksiyon yazma
+7) bankamatik.py => Fonksiyonlar ile ilgili büyük uygulama
+8) oop.py => class sistemi
+9) class.py => class sisteminin temel kuralları
+10) methods.py => class metodu devamı

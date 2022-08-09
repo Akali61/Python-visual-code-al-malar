@@ -1,0 +1,19 @@
+**1. Hafta **
+1) first-app.py => print ve input öğretildi.
+2) numbers.py => Sayılar, toplama-çıkarma işlemleri 
+3) variables.py => Temel değişken tanımlama
+4) type-coversion.py => Veri Tipi Dönüşümleri (Örnek: int=>str)
+5) type-conversion-demo.py => Veri tipi dönüşümleri ile ilgili etkinlik
+6) format.py => f ile {} içine değişken atama
+7) strings.py => String metotları (Örnek: len, lenght, [])
+8) string-methods.py => upper,lower,title,capitalize,strip,split,endswith,startswith
+9) lists.py => Liste oluşturma
+10) list-methods.py => min,max,index,append,insert,reverse,remove,pop,sort
+11) tuple.py => Liste ile benzer olan ama karakter eklenip çıkartılamayan dizin, count metotu
+12) dictionary.py => key, value, index
+13) reference.py => Value types: str,number **** Reference types: list
+14) operator.py => /* , %=, //=, **, +=, -=, /=, *=
+15) operator-alistirma.py => Yukarıdakilerle ilgili alıştırma
+16) comparison.py => İki değeri soru yoluyla anlatır (x > y) => x, y den büyük mü?, (x == z) => x, z ye eşit mi?
+17) comparison-alistirma.py => format'lı alıştırmalar
+18) logical.py => and, or, not: True veya False olma durumuna bakılır

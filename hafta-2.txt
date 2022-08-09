@@ -1,0 +1,14 @@
+***Hafta 2*** 
+1) logical-alistirma.py => format metodlu alıştırmalar
+2) others.py => (in, not in, is, is not) operatörleri  
+3) if-else.py => if ve else 
+4) if-elif.py => if ve elif 
+5) if-else-demo.py => if, elif, else ile ilgili alıştırmalar
+6) if-else-demo-2.py => if, else alıştırmalar
+7) while.py => while döngüsü 
+8) while-demo.py => while döngüsü ile ilgili araştırmalar
+9) for.py => for döngüsü // Örnek:(for name in names)
+10) for-demo.py => for döngüsü ile ilgili alıştırmalar
+11) loop-operators.py => range, enumerate, zip
+12) loops-alistirma.py => range, enumerate, zip ile ilgili alıştırmalar 
+13) asal-sayi.py => Asal sayılarla ilgili while, for döngüleri ile birlikte alıştırma
