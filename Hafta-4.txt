@@ -1,2 +1,8 @@
 ***Hafta-4***
-1)_random.py => random, randint, choice gibi ifadeler  
+1) _random.py => random, randint, choice gibi ifadeler
+2) errors.py => erorlar (valueError, ZeroDivision vs.)
+3) errors-demo.py => Erorlar hakkında uygulama
+4) handling.py => Try,except metodları
+5) main.py => mod kullanımı
+6) mod.py => Modül oluşturma
+7) raise.py => Hata mesajını verme
