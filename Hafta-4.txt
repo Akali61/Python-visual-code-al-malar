@@ -1,0 +1,2 @@
+***Hafta-4***
+1)_random.py => random, randint, choice gibi ifadeler  
